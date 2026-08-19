@@ -24,8 +24,6 @@ collections:
           - {label: "Collective — Paragraph", name: "collective.p", widget: "text"}
           - {label: "Team — Dara: Role title", name: "team.dara.role", widget: "string"}
           - {label: "Team — Dara: Expertise line", name: "team.dara.sub", widget: "string"}
-          - {label: "Team — Gul: Expertise line", name: "team.gul.sub", widget: "string"}
-          - {label: "Team — Naveed: Expertise line", name: "team.naveed.sub", widget: "string"}
           - {label: "How We Help — Eyebrow tag", name: "help.eyebrow", widget: "string"}
           - {label: "How We Help — Headline", name: "help.h2", widget: "string"}
           - {label: "How We Help — Paragraph", name: "help.p", widget: "text"}
@@ -110,3 +108,19 @@ collections:
           - {label: "Contact Form — \"Website\" field label", name: "form.label_website", widget: "string"}
           - {label: "Contact Form — \"Tell us about your business\" field label", name: "form.label_about", widget: "string"}
           - {label: "Contact Form — \"What are you hoping to accomplish?\" field label", name: "form.label_goal", widget: "string"}
+          - {label: "Team — Blync.io: Tag", name: "team.blync.tag", widget: "string"}
+          - {label: "Team — Blync.io: Name", name: "team.blync.name", widget: "string"}
+          - {label: "Team — Blync.io: Expertise line", name: "team.blync.sub", widget: "string"}
+          - {label: "Team — Managed Tech: Tag", name: "team.managedtech.tag", widget: "string"}
+          - {label: "Team — Managed Tech: Name", name: "team.managedtech.name", widget: "string"}
+          - {label: "Team — Managed Tech: Expertise line", name: "team.managedtech.sub", widget: "string"}
+          - {label: "Team — Amanda: Tag", name: "team.amanda.tag", widget: "string"}
+          - {label: "Team — Amanda: Name", name: "team.amanda.name", widget: "string"}
+          - {label: "Team — Amanda: Expertise line", name: "team.amanda.sub", widget: "string"}
+          - {label: "Team — Jana: Tag", name: "team.jana.tag", widget: "string"}
+          - {label: "Team — Jana: Name", name: "team.jana.name", widget: "string"}
+          - {label: "Team — Jana: Expertise line", name: "team.jana.sub", widget: "string"}
+          - {label: "Team — Blync.io: Full bio", name: "team.blync.bio", widget: "text"}
+          - {label: "Team — Managed Tech: Full bio", name: "team.managedtech.bio", widget: "text"}
+          - {label: "Team — Amanda: Full bio", name: "team.amanda.bio", widget: "text"}
+          - {label: "Team — Jana: Full bio", name: "team.jana.bio", widget: "text"}
